@@ -126,10 +126,6 @@
   ],
   "followers": [
     {
-      "id": "11Jugxrx02U",
-      "username": "zainab"
-    },
-    {
       "id": "NH4W8C1paZ0",
       "username": "zainab"
     },
@@ -152,6 +148,10 @@
     {
       "id": "dt_X2IkyH14",
       "username": "zehara"
+    },
+    {
+      "id": "4rgptv8YGOA",
+      "username": "zainab"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
